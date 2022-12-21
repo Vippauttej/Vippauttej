@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ... Full stack web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...vippauttej18@gmail.com
 
 <!---
 Vippauttej/Vippauttej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
