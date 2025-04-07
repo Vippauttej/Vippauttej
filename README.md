@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vippauttej
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... Full stack web development
+- 👀 I’m interested in ...Web Development,SDET, QA ENGINEER
+- 🌱 I’m currently learning ... Full stack web development,SDET, AUTOMATION, MANUAL TESTING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vippauttej18@gmail.com
 
